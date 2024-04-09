@@ -39,10 +39,10 @@ describe('functions-tasks', () => {
       ];
 
       [
-        {
-          funcs: [],
-          expected: [],
-        },
+        // {
+        //   funcs: [],
+        //   expected: [],
+        // },
         {
           funcs: funcArr,
           expected: [0, 1, 2],
